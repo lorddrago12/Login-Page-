@@ -23,3 +23,7 @@ I've been thinking of making projects using html and css so i created this
 simple and modern login page using html and css which has a nice clean background
 with simple icons on side of the username and password input boxes which makes the
 login page even more cool.
+
+# 🍿 Screenshot
+---
+<img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/c7054870-7300-48e3-b71f-a102fe5d21a9" />
